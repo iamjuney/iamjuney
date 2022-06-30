@@ -1,16 +1,17 @@
-### Hi there 👋
+## Konnichiwa, I'm Aljon 👋 
 
-<!--
-**iamjuney/iamjuney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😄 pronouns: he/him
+👨🏼‍💻 learning [svelte][svelte], [tailwindcss][tailwindcss]
+💜 loving [laravel][laravel], [mySQL][mysql], [bootstrap][bootstrap], [vue][vue]  
 
-Here are some ideas to get you started:
+🏡 [facebook][facebook]
+👔 [linkedin][linkedin]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[svelte]: https://svelte.dev/
+[tailwindcss]: https://tailwindcss.com/
+[laravel]: https://laravel.com/
+[mysql]: https://www.mysql.com/
+[bootstrap]: https://getbootstrap.com/
+[vue]: https://vuejs.org/
+[facebook]: https://facebook.com/iamjuney1412/
+[linkedin]: www.linkedin.com/in/aljon-lerios
