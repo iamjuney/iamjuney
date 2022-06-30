@@ -1,5 +1,6 @@
 ## Konnichiwa, I'm Aljon 👋 
 
+- 🎒 taking up BSCS at Visayas State University
 - 😄 pronouns: he/him
 - 👨🏼‍💻 learning [svelte][svelte], [tailwindcss][tailwindcss]
 - 💜 loving [laravel][laravel], [mySQL][mysql], [bootstrap][bootstrap], [vue][vue]  
