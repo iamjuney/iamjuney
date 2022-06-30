@@ -1,10 +1,10 @@
 ## Konnichiwa, I'm Aljon 👋 
 
-😄 pronouns: he/him
-👨🏼‍💻 learning [svelte][svelte], [tailwindcss][tailwindcss]
-💜 loving [laravel][laravel], [mySQL][mysql], [bootstrap][bootstrap], [vue][vue]  
+- 😄 pronouns: he/him
+- 👨🏼‍💻 learning [svelte][svelte], [tailwindcss][tailwindcss]
+- 💜 loving [laravel][laravel], [mySQL][mysql], [bootstrap][bootstrap], [vue][vue]  
 
-🏡 [facebook][facebook]
+🏡 [facebook][facebook] **|**
 👔 [linkedin][linkedin]
 
 [svelte]: https://svelte.dev/
